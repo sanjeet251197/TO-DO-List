@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(to bottom, #3498db, #2980b9); /* Updated background to a gradient */
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Adjusted font stack */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Courier New', Courier, monospace; /* Updated code font */
+  /* Add any other code styling you need */
+}
